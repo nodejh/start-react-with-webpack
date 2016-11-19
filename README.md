@@ -5,7 +5,8 @@
 run:
 
 ```
-$ npm install
+$ git clone https://github.com/nodejh/start-react-with-webpack react-sample
+$ cd react-sample && npm install
 $ npm run dev
 ```
 
